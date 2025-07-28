@@ -22,5 +22,13 @@
     "preview":"Preview",
     "cancel":"Cancel",
     "confirm":"Confirm"
-  }
+  },
+  "pl-PL":{
+    "title":"Edytuj awatar",
+    "changeAvatar":"Zmień awatar",
+    "rotate":"Obróć o 90°",
+    "preview":"Podgląd",
+    "cancel":"Anuluj",
+    "confirm":"Zapisz"
+  }  
 }
